@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Core\bin\Debug\netcoreapp3.1\WandioMobilePhones.Core.deps.json
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Core\bin\Debug\netcoreapp3.1\WandioMobilePhones.Core.dll
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Core\obj\Debug\netcoreapp3.1\WandioMobilePhones.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Core\obj\Debug\netcoreapp3.1\WandioMobilePhones.Core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Core\obj\Debug\netcoreapp3.1\WandioMobilePhones.Core.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Core\bin\Debug\netcoreapp3.1\WandioMobilePhones.Core.pdb
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Core\obj\Debug\netcoreapp3.1\WandioMobilePhones.Core.dll
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Core\obj\Debug\netcoreapp3.1\WandioMobilePhones.Core.pdb

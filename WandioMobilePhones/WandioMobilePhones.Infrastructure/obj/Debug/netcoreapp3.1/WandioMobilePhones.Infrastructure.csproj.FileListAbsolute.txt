@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\bin\Debug\netcoreapp3.1\WandioMobilePhones.Application.dll
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\bin\Debug\netcoreapp3.1\WandioMobilePhones.Core.dll
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\bin\Debug\netcoreapp3.1\WandioMobilePhones.Domain.dll
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\obj\Debug\netcoreapp3.1\WandioMobilePhones.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\obj\Debug\netcoreapp3.1\WandioMobilePhones.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\obj\Debug\netcoreapp3.1\WandioMobilePhones.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\bin\Debug\netcoreapp3.1\WandioMobilePhones.Infrastructure.deps.json
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\bin\Debug\netcoreapp3.1\WandioMobilePhones.Infrastructure.dll
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\bin\Debug\netcoreapp3.1\WandioMobilePhones.Infrastructure.pdb
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\bin\Debug\netcoreapp3.1\WandioMobilePhones.Application.pdb
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\bin\Debug\netcoreapp3.1\WandioMobilePhones.Domain.pdb
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\bin\Debug\netcoreapp3.1\WandioMobilePhones.Core.pdb
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\obj\Debug\netcoreapp3.1\WandioMobilePhones.Infrastructure.csproj.CopyComplete
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\obj\Debug\netcoreapp3.1\WandioMobilePhones.Infrastructure.dll
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\obj\Debug\netcoreapp3.1\WandioMobilePhones.Infrastructure.pdb
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\bin\Debug\netcoreapp3.1\WandioMobilePhones.Infrastructure.runtimeconfig.json
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Infrastructure\bin\Debug\netcoreapp3.1\WandioMobilePhones.Infrastructure.runtimeconfig.dev.json

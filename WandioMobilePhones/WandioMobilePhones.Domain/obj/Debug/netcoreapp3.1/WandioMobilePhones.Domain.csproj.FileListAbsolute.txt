@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Domain\obj\Debug\netcoreapp3.1\WandioMobilePhones.Domain.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Domain\obj\Debug\netcoreapp3.1\WandioMobilePhones.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Domain\obj\Debug\netcoreapp3.1\WandioMobilePhones.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Domain\bin\Debug\netcoreapp3.1\WandioMobilePhones.Domain.deps.json
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Domain\bin\Debug\netcoreapp3.1\WandioMobilePhones.Domain.dll
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Domain\bin\Debug\netcoreapp3.1\WandioMobilePhones.Domain.pdb
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Domain\bin\Debug\netcoreapp3.1\WandioMobilePhones.Core.dll
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Domain\bin\Debug\netcoreapp3.1\WandioMobilePhones.Core.pdb
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Domain\obj\Debug\netcoreapp3.1\WandioMobilePhones.Domain.csproj.CopyComplete
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Domain\obj\Debug\netcoreapp3.1\WandioMobilePhones.Domain.dll
+C:\Users\Admin\source\repos\WandioMobilePhones\WandioMobilePhones.Domain\obj\Debug\netcoreapp3.1\WandioMobilePhones.Domain.pdb

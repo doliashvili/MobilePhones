@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WandioMobilePhones", "WandioMobilePhones\WandioMobilePhones.csproj", "{149441CD-284D-464C-8DA1-5E4404E51CE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WandioMobilePhones.Domain", "WandioMobilePhones.Domain\WandioMobilePhones.Domain.csproj", "{BC62137D-7186-4241-A902-73BD022258C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WandioMobilePhones.Application", "WandioMobilePhones.Application\WandioMobilePhones.Application.csproj", "{5EDBEC4E-1130-41A6-BD15-1F27EC98CFEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WandioMobilePhones.Infrastructure", "WandioMobilePhones.Infrastructure\WandioMobilePhones.Infrastructure.csproj", "{912F2881-0756-4FBB-A532-776BC74B0D57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WandioMobilePhones.Core", "WandioMobilePhones.Core\WandioMobilePhones.Core.csproj", "{C5E04F35-76A2-4E62-9D6A-584DB070DB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WandioMobilePhones.UnitTest", "WandioMobilePhones.UnitTest\WandioMobilePhones.UnitTest.csproj", "{E740B0B7-DCC8-40CE-9EE9-F0CE55F4D9CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{149441CD-284D-464C-8DA1-5E4404E51CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149441CD-284D-464C-8DA1-5E4404E51CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149441CD-284D-464C-8DA1-5E4404E51CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149441CD-284D-464C-8DA1-5E4404E51CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC62137D-7186-4241-A902-73BD022258C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC62137D-7186-4241-A902-73BD022258C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC62137D-7186-4241-A902-73BD022258C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC62137D-7186-4241-A902-73BD022258C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDBEC4E-1130-41A6-BD15-1F27EC98CFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDBEC4E-1130-41A6-BD15-1F27EC98CFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDBEC4E-1130-41A6-BD15-1F27EC98CFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDBEC4E-1130-41A6-BD15-1F27EC98CFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912F2881-0756-4FBB-A532-776BC74B0D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912F2881-0756-4FBB-A532-776BC74B0D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912F2881-0756-4FBB-A532-776BC74B0D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912F2881-0756-4FBB-A532-776BC74B0D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E04F35-76A2-4E62-9D6A-584DB070DB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E04F35-76A2-4E62-9D6A-584DB070DB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E04F35-76A2-4E62-9D6A-584DB070DB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E04F35-76A2-4E62-9D6A-584DB070DB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E740B0B7-DCC8-40CE-9EE9-F0CE55F4D9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E740B0B7-DCC8-40CE-9EE9-F0CE55F4D9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E740B0B7-DCC8-40CE-9EE9-F0CE55F4D9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E740B0B7-DCC8-40CE-9EE9-F0CE55F4D9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93748D93-0CEE-4F9A-BE63-EB4ACF33753B}
+	EndGlobalSection
+EndGlobal
